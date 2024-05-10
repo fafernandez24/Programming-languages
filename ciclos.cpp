@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 /*
-    Estructura de los cilos en C++
+    Estructura de los ciclos en C++
 
     La sentencia while:
 
