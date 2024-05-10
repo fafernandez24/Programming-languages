@@ -1,1 +1,1 @@
-<h1 align = "center"> EXERCISES FOR BEGGINERS OF C++ </h1>
+<h1 align = "center"> C++ EXERCISES FOR BEGGINERS </h1>
